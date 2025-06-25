@@ -1,5 +1,7 @@
 # TreeCraft
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-TreeCraft-blue?style=for-the-badge)](https://jelman.github.io/treecraft)
+
 A modern web-based application for creating, editing, and visualizing folder structures with drag-and-drop functionality.
 
 ## Features
