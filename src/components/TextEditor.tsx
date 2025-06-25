@@ -8,6 +8,9 @@ interface TextEditorProps {
 }
 
 const TextEditor: React.FC<TextEditorProps> = ({ content, onChange, format }) => {
+  // Acknowledge format parameter to avoid TypeScript unused variable warning
+  void format;
+  
   const handleChange = (value: string | undefined) => {
     onChange(value || '');
   };
