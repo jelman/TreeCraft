@@ -25,7 +25,6 @@
     "organization"
   ],
   "main": "public/electron.js",
-  "homepage": "./",
   "scripts": {
     "dev": "vite",
     "dev:host": "vite --host",
