@@ -56,7 +56,7 @@ function App() {
       const parsedStructure = parseTextToStructure(text);
       setStructure(parsedStructure);
     } catch (error) {
-      console.warn('Failed to parse text:', error);
+      // Silently handle parsing errors
     }
   }, []);
 
@@ -113,7 +113,7 @@ function App() {
       const parsedStructure = parseTextToStructure(sampleText);
       setStructure(parsedStructure);
     } catch (error) {
-      console.warn('Failed to parse sample text:', error);
+      // Silently handle sample text parsing errors
     }
   }, []);
 
