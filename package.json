@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jelman/treecraft.git"
+    "url": "https://github.com/jelman/TreeCraft.git"
   },
   "bugs": {
-    "url": "https://github.com/jelman/treecraft/issues"
+    "url": "https://github.com/jelman/TreeCraft/issues"
   },
-  "homepage": "https://jelman.github.io/treecraft",
+  "homepage": "https://jelman.github.io/TreeCraft",
   "keywords": [
     "folder-structure",
     "tree",
