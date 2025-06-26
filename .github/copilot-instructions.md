@@ -1,6 +1,6 @@
 <!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
 
-# TreeCraft Project
+# TreeForge Project
 
 This is a React TypeScript application for creating and editing folder structures with drag-and-drop functionality.
 

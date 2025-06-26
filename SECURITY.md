@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-We currently support the following versions of TreeCraft:
+We currently support the following versions of TreeForge:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -10,7 +10,7 @@ We currently support the following versions of TreeCraft:
 
 ## Reporting a Vulnerability
 
-We take security seriously. If you discover a security vulnerability in TreeCraft, please report it responsibly.
+We take security seriously. If you discover a security vulnerability in TreeForge, please report it responsibly.
 
 ### How to Report
 
@@ -31,10 +31,10 @@ We take security seriously. If you discover a security vulnerability in TreeCraf
 
 ### Security Best Practices
 
-When using TreeCraft:
+When using TreeForge:
 - Keep your installation up to date
 - Be cautious when loading files from untrusted sources
 - Use the desktop app for sensitive folder structures
 - Report any suspicious behavior
 
-Thank you for helping keep TreeCraft secure! 🔒
+Thank you for helping keep TreeForge secure! 🔒

@@ -1,18 +1,18 @@
 {
-  "name": "treecraft",
+  "name": "treeforge",
   "private": true,
   "version": "0.1.0",
   "description": "A modern web-based application for creating, editing, and visualizing folder structures with drag-and-drop functionality",
-  "author": "TreeCraft Contributors",
+  "author": "TreeForge Contributors",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jelman/TreeCraft.git"
+    "url": "https://github.com/jelman/TreeForge.git"
   },
   "bugs": {
-    "url": "https://github.com/jelman/TreeCraft/issues"
+    "url": "https://github.com/jelman/TreeForge/issues"
   },
-  "homepage": "https://jelman.github.io/TreeCraft",
+  "homepage": "https://jelman.github.io/TreeForge",
   "keywords": [
     "folder-structure",
     "tree",
@@ -63,8 +63,8 @@
     "wait-on": "^7.2.0"
   },
   "build": {
-    "appId": "com.treecraft.app",
-    "productName": "TreeCraft",
+    "appId": "com.treeforge.app",
+    "productName": "TreeForge",
     "directories": {
       "output": "dist-electron"
     },
@@ -99,7 +99,7 @@
       "icon": "public/icon.png",
       "category": "Development",
       "desktop": {
-        "Name": "TreeCraft",
+        "Name": "TreeForge",
         "Comment": "Create and edit folder structures visually",
         "Keywords": "folder;structure;tree;editor;development;"
       }

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Starting TreeCraft..."
+echo "Starting TreeForge..."
 echo ""
 echo "Make sure Node.js is installed first!"
 echo ""

@@ -184,7 +184,7 @@ function App() {
   return (
     <DndProvider backend={HTML5Backend}>
       <div className="App">
-        <h1>TreeCraft</h1>
+        <h1>TreeForge</h1>
         <p>Create, edit, and visualize folder structures with drag & drop</p>
         
         <div className="controls">

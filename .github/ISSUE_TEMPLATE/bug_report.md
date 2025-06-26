@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help us improve TreeCraft
+about: Create a report to help us improve TreeForge
 title: '[BUG] '
 labels: bug
 assignees: ''
@@ -27,7 +27,7 @@ If applicable, add screenshots to help explain your problem.
 ## Environment
 - **OS**: [e.g. Windows 10, macOS, Ubuntu]
 - **Browser**: [e.g. Chrome 120, Firefox 121, Safari 17]
-- **TreeCraft Version**: [e.g. web app, desktop v0.1.0]
+- **TreeForge Version**: [e.g. web app, desktop v0.1.0]
 
 ## Additional Context
 Add any other context about the problem here.

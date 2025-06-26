@@ -1,5 +1,5 @@
 @echo off
-echo Building TreeCraft for deployment...
+echo Building TreeForge for deployment...
 echo.
 
 call npm install

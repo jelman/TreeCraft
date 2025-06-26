@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest an idea for TreeCraft
+about: Suggest an idea for TreeForge
 title: '[FEATURE] '
 labels: enhancement
 assignees: ''

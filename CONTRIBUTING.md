@@ -1,14 +1,14 @@
-# Contributing to TreeCraft
+# Contributing to TreeForge
 
-Thank you for your interest in contributing to TreeCraft! We welcome contributions from the community.
+Thank you for your interest in contributing to TreeForge! We welcome contributions from the community.
 
 ## Getting Started
 
 1. Fork the repository
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/yourusername/treecraft.git
-   cd treecraft
+   git clone https://github.com/yourusername/treeforge.git
+   cd treeforge
    ```
 3. Install dependencies:
    ```bash
@@ -88,4 +88,4 @@ For new features, please:
 
 Feel free to open an issue for questions or join discussions in existing issues.
 
-Thank you for contributing to TreeCraft! 🌳
+Thank you for contributing to TreeForge! 🌳

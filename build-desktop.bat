@@ -1,5 +1,5 @@
 @echo off
-echo Building TreeCraft desktop application...
+echo Building TreeForge desktop application...
 echo.
 
 call npm install

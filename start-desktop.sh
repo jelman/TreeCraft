@@ -10,7 +10,7 @@ if [ $? -eq 0 ]; then
     
     if [ $? -eq 0 ]; then
         echo ""
-        echo "Starting TreeCraft desktop app..."
+        echo "Starting TreeForge desktop app..."
         npm run electron
     else
         echo "Failed to build React app!"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Building TreeCraft desktop application..."
+echo "Building TreeForge desktop application..."
 echo ""
 
 echo "Installing dependencies..."
