@@ -4,6 +4,8 @@
 
 A modern web-based application for creating, editing, and visualizing folder structures with drag-and-drop functionality.
 
+<!-- Updated June 2025 - TreeForge rebrand complete - Force deploy -->
+
 ## Features
 
 - **Visual Editor**: Drag and drop folders and files to reorganize structure
