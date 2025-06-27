@@ -1,4 +1,7 @@
 @echo off
+:: Change to the script's directory
+cd /d "%~dp0"
+
 echo Starting TreeForge...
 echo.
 echo Make sure Node.js is installed first!

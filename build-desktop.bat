@@ -2,6 +2,13 @@
 echo Building TreeForge desktop application...
 echo.
 
+:: Change to the script's directory
+cd /d "%~dp0"
+
+:: Clear electron-builder cache to avoid symbolic link issues
+echo Clearing electron-builder cache...
+rmdir /s /q "%LOCALAPPDATA%\electron-builder\Cache" 2>nul
+
 call npm install
 if %ERRORLEVEL% NEQ 0 (
     echo Failed to install dependencies!
