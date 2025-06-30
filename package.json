@@ -3,7 +3,10 @@
   "private": true,
   "version": "0.1.0",
   "description": "A modern web-based application for creating, editing, and visualizing folder structures with drag-and-drop functionality",
-  "author": "TreeForge Contributors",
+  "author": {
+    "name": "TreeForge Contributors",
+    "email": "treeforge@example.com"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -85,14 +88,6 @@
       "target": [
         {
           "target": "AppImage",
-          "arch": ["x64"]
-        },
-        {
-          "target": "deb",
-          "arch": ["x64"]
-        },
-        {
-          "target": "rpm",
           "arch": ["x64"]
         }
       ],

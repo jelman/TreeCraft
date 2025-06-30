@@ -93,6 +93,18 @@ body {
   color: #333;
 }
 
+.visual-editor input {
+  color: #333 !important;
+}
+
+.visual-editor .folder-item button {
+  color: #333;
+}
+
+.visual-editor .folder-item svg {
+  color: #333;
+}
+
 .text-editor {
   flex: 1;
   border: 1px solid #ccc;
@@ -109,6 +121,18 @@ body {
   cursor: move;
   user-select: none;
   transition: all 0.2s ease;
+  color: #333;
+}
+
+.folder-item input {
+  color: #333 !important;
+}
+
+.folder-item button {
+  color: #333;
+}
+
+.folder-item svg {
   color: #333;
 }
 
